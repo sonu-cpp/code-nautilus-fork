@@ -24,3 +24,9 @@ To install, run the following command:
 
 ```bash
 wget -qO- https://raw.githubusercontent.com/sonux2005/code-nautilus-fork/master/install.sh | bash
+```
+
+To Uninstall, run the following command:
+```bash
+wget -qO- https://raw.githubusercontent.com/sonux2005/code-nautilus-fork/master/uninstall.sh | bash
+```
