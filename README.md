@@ -19,3 +19,8 @@
 
     Reason: Ensures that the correct VSCode executable is used. You can modify the path if VSCode is installed in a custom location.
     Impact: Prevents the script from accidentally launching the wrong program.
+
+To install, run the following command:
+
+```bash
+wget -qO- https://raw.githubusercontent.com/sonux2005/code-nautilus-fork/master/install.sh | bash
